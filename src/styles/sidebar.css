@@ -1,0 +1,14 @@
+.sidebarContainer{
+    margin: 0px;
+    padding: 0px;
+}
+
+.sidebarContainer ul{
+    margin: 0px;
+    list-style: none;
+    display: flex;
+    flex-direction:column;
+    justify-content:space-evenly;
+    height: 80vh;
+    font-size: 20px;
+}
